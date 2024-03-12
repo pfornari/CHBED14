@@ -1,0 +1,207 @@
+{"level":"error","message":"GET en /loggerTest - at 9/3/2024- 10:43:22"}
+{"level":"fatal","message":"GET en /loggerTest - at 9/3/2024- 10:43:22"}
+{"level":"error","message":"Prueba de log level error --> en Endpoint"}
+{"level":"error","message":"GET en /loggerTest - at 9/3/2024- 10:43:53"}
+{"level":"fatal","message":"GET en /loggerTest - at 9/3/2024- 10:43:53"}
+{"level":"error","message":"Prueba de log level error --> en Endpoint"}
+{"level":"error","message":"GET en /loggerTest - at 9/3/2024- 15:12:11"}
+{"level":"fatal","message":"GET en /loggerTest - at 9/3/2024- 15:12:11"}
+{"level":"error","message":"GET en /loggerTest - at 9/3/2024- 15:13:06"}
+{"level":"fatal","message":"GET en /loggerTest - at 9/3/2024- 15:13:06"}
+{"level":"error","message":"GET en /loggerTest - at 9/3/2024- 15:13:19"}
+{"level":"fatal","message":"GET en /loggerTest - at 9/3/2024- 15:13:19"}
+{"level":"error","message":"GET en / - at 9/3/2024- 15:15:20"}
+{"level":"fatal","message":"GET en / - at 9/3/2024- 15:15:20"}
+{"level":"error","message":"GET en /css/ - at 9/3/2024- 15:15:20"}
+{"level":"fatal","message":"GET en /css/ - at 9/3/2024- 15:15:20"}
+{"level":"error","message":"POST en /api/jwt/login - at 9/3/2024- 15:15:31"}
+{"level":"fatal","message":"POST en /api/jwt/login - at 9/3/2024- 15:15:31"}
+{"level":"error","message":"GET en /users/register - at 9/3/2024- 15:27:22"}
+{"level":"fatal","message":"GET en /users/register - at 9/3/2024- 15:27:22"}
+{"level":"error","message":"POST en /api/jwt/register - at 9/3/2024- 15:27:32"}
+{"level":"fatal","message":"POST en /api/jwt/register - at 9/3/2024- 15:27:32"}
+{"level":"error","message":"GET en / - at 9/3/2024- 15:27:32"}
+{"level":"fatal","message":"GET en / - at 9/3/2024- 15:27:32"}
+{"level":"error","message":"GET en /css/ - at 9/3/2024- 15:27:32"}
+{"level":"fatal","message":"GET en /css/ - at 9/3/2024- 15:27:32"}
+{"level":"error","message":"GET en /loggerTest - at 9/3/2024- 15:34:06"}
+{"level":"fatal","message":"GET en /loggerTest - at 9/3/2024- 15:34:06"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"error","message":"GET en /loggerTest - at 9/3/2024- 15:39:22"}
+{"level":"fatal","message":"GET en /loggerTest - at 9/3/2024- 15:39:22"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"error","message":"GET en /loggerTest - at 9/3/2024- 15:44:25"}
+{"level":"fatal","message":"GET en /loggerTest - at 9/3/2024- 15:44:25"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"error","message":"GET en /loggerTest - at 9/3/2024- 15:46:55"}
+{"level":"fatal","message":"GET en /loggerTest - at 9/3/2024- 15:46:55"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"error","message":"GET en /loggerTest - at 9/3/2024- 16:31:13"}
+{"level":"fatal","message":"GET en /loggerTest - at 9/3/2024- 16:31:14"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"error","message":"GET en / - at 9/3/2024- 16:38:16"}
+{"level":"fatal","message":"GET en / - at 9/3/2024- 16:38:16"}
+{"level":"error","message":"GET en /css/ - at 9/3/2024- 16:38:16"}
+{"level":"fatal","message":"GET en /css/ - at 9/3/2024- 16:38:16"}
+{"level":"error","message":"POST en /api/jwt/login - at 9/3/2024- 16:38:24"}
+{"level":"fatal","message":"POST en /api/jwt/login - at 9/3/2024- 16:38:24"}
+{"level":"error","message":"GET en /users/products - at 9/3/2024- 16:38:25"}
+{"level":"error","message":"GET en / - at 9/3/2024- 16:39:08"}
+{"level":"fatal","message":"GET en / - at 9/3/2024- 16:39:08"}
+{"level":"error","message":"GET en /css/ - at 9/3/2024- 16:39:08"}
+{"level":"fatal","message":"GET en /css/ - at 9/3/2024- 16:39:08"}
+{"level":"error","message":"POST en /api/jwt/login - at 9/3/2024- 16:39:12"}
+{"level":"fatal","message":"POST en /api/jwt/login - at 9/3/2024- 16:39:12"}
+{"level":"error","message":"GET en /users/products - at 9/3/2024- 16:39:14"}
+{"level":"error","message":"GET en / - at 9/3/2024- 16:40:16"}
+{"level":"fatal","message":"GET en / - at 9/3/2024- 16:40:16"}
+{"level":"error","message":"GET en /css/ - at 9/3/2024- 16:40:16"}
+{"level":"fatal","message":"GET en /css/ - at 9/3/2024- 16:40:16"}
+{"level":"error","message":"POST en /api/jwt/login - at 9/3/2024- 16:40:22"}
+{"level":"fatal","message":"POST en /api/jwt/login - at 9/3/2024- 16:40:22"}
+{"level":"error","message":"GET en /users/products - at 9/3/2024- 16:40:23"}
+{"level":"error","message":"GET en /users/products - at 9/3/2024- 16:41:07"}
+{"level":"fatal","message":"GET en /users/products - at 9/3/2024- 16:41:07"}
+{"level":"error","message":"GET en /loggerTest - at 10/3/2024- 10:20:26"}
+{"level":"fatal","message":"GET en /loggerTest - at 10/3/2024- 10:20:26"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"error","message":"GET en /loggerTest - at 10/3/2024- 10:21:05"}
+{"level":"fatal","message":"GET en /loggerTest - at 10/3/2024- 10:21:05"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"error","message":"GET en /loggerTest - at 10/3/2024- 10:23:56"}
+{"level":"fatal","message":"GET en /loggerTest - at 10/3/2024- 10:23:56"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"error","message":"GET en /loggerTest - at 10/3/2024- 10:30:46"}
+{"level":"fatal","message":"GET en /loggerTest - at 10/3/2024- 10:30:46"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"error","message":"GET en /favicon.ico - at 10/3/2024- 10:30:46"}
+{"level":"fatal","message":"GET en /favicon.ico - at 10/3/2024- 10:30:46"}
+{"level":"error","message":"GET en /loggerTest - at 10/3/2024- 10:31:09"}
+{"level":"fatal","message":"GET en /loggerTest - at 10/3/2024- 10:31:09"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"error","message":"GET en / - at 10/3/2024- 10:37:38"}
+{"level":"fatal","message":"GET en / - at 10/3/2024- 10:37:38"}
+{"level":"error","message":"GET en /css/ - at 10/3/2024- 10:37:38"}
+{"level":"fatal","message":"GET en /css/ - at 10/3/2024- 10:37:38"}
+{"level":"error","message":"POST en /api/jwt/login - at 10/3/2024- 10:37:42"}
+{"level":"fatal","message":"POST en /api/jwt/login - at 10/3/2024- 10:37:42"}
+{"level":"error","message":"GET en /users/products - at 10/3/2024- 10:37:43"}
+{"level":"error","message":"GET en /users/products - at 10/3/2024- 10:38:52"}
+{"level":"error","message":"GET en / - at 10/3/2024- 10:39:39"}
+{"level":"fatal","message":"GET en / - at 10/3/2024- 10:39:39"}
+{"level":"error","message":"GET en /css/ - at 10/3/2024- 10:39:39"}
+{"level":"fatal","message":"GET en /css/ - at 10/3/2024- 10:39:39"}
+{"level":"error","message":"POST en /api/jwt/login - at 10/3/2024- 10:43:42"}
+{"level":"fatal","message":"POST en /api/jwt/login - at 10/3/2024- 10:43:42"}
+{"level":"error","message":"GET en /users/products - at 10/3/2024- 10:43:44"}
+{"level":"error","message":"GET en / - at 10/3/2024- 10:44:06"}
+{"level":"fatal","message":"GET en / - at 10/3/2024- 10:44:06"}
+{"level":"error","message":"GET en /css/ - at 10/3/2024- 10:44:06"}
+{"level":"fatal","message":"GET en /css/ - at 10/3/2024- 10:44:06"}
+{"level":"error","message":"POST en /api/jwt/login - at 10/3/2024- 10:44:11"}
+{"level":"fatal","message":"POST en /api/jwt/login - at 10/3/2024- 10:44:11"}
+{"level":"error","message":"GET en /users/products - at 10/3/2024- 10:44:12"}
+{"level":"error","message":"GET en /api/jwt/logout - at 10/3/2024- 10:57:38"}
+{"level":"fatal","message":"GET en /api/jwt/logout - at 10/3/2024- 10:57:38"}
+{"level":"error","message":"GET en / - at 10/3/2024- 10:57:39"}
+{"level":"fatal","message":"GET en / - at 10/3/2024- 10:57:39"}
+{"level":"error","message":"GET en /css/ - at 10/3/2024- 10:57:39"}
+{"level":"fatal","message":"GET en /css/ - at 10/3/2024- 10:57:39"}
+{"level":"error","message":"POST en /api/jwt/login - at 10/3/2024- 10:57:44"}
+{"level":"fatal","message":"POST en /api/jwt/login - at 10/3/2024- 10:57:44"}
+{"level":"error","message":"GET en /users/products - at 10/3/2024- 10:57:45"}
+{"level":"fatal","message":"GET en /users/products - at 10/3/2024- 10:57:45"}
+{"level":"error","message":"GET en /api/products - at 10/3/2024- 10:57:49"}
+{"level":"fatal","message":"GET en /api/products - at 10/3/2024- 10:57:49"}
+{"level":"error","message":"GET en /api/products/addProduct - at 10/3/2024- 10:57:52"}
+{"level":"fatal","message":"GET en /api/products/addProduct - at 10/3/2024- 10:57:52"}
+{"level":"error","message":"POST en /api/products - at 10/3/2024- 10:58:18"}
+{"level":"fatal","message":"POST en /api/products - at 10/3/2024- 10:58:18"}
+{"level":"error","message":"GET en /api/products - at 10/3/2024- 10:58:19"}
+{"level":"fatal","message":"GET en /api/products - at 10/3/2024- 10:58:19"}
+{"level":"error","message":"GET en /api/products/addProduct - at 10/3/2024- 10:59:09"}
+{"level":"fatal","message":"GET en /api/products/addProduct - at 10/3/2024- 10:59:09"}
+{"level":"error","message":"POST en /api/products - at 10/3/2024- 10:59:20"}
+{"level":"fatal","message":"POST en /api/products - at 10/3/2024- 10:59:20"}
+{"level":"error","message":"GET en /api/products - at 10/3/2024- 10:59:20"}
+{"level":"fatal","message":"GET en /api/products - at 10/3/2024- 10:59:20"}
+{"level":"error"}
+{"level":"error","message":"El usuario ya existe"}
+{"code":11000,"index":0,"keyPattern":{"email":1},"keyValue":{"email":"1@gmail.com"},"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"User doesn't exist: 2@gmail.com"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"GET en / - at 10/3/2024- 15:45:47"}
+{"level":"fatal","message":"GET en / - at 10/3/2024- 15:45:47"}
+{"level":"error","message":"GET en /css/ - at 10/3/2024- 15:45:48"}
+{"level":"fatal","message":"GET en /css/ - at 10/3/2024- 15:45:48"}
+{"level":"error","message":"POST en /api/jwt/login - at 10/3/2024- 15:45:52"}
+{"level":"fatal","message":"POST en /api/jwt/login - at 10/3/2024- 15:45:52"}
+{"level":"error","message":"GET en /users/products - at 10/3/2024- 15:45:54"}
+{"level":"fatal","message":"GET en /users/products - at 10/3/2024- 15:45:54"}
+{"level":"error","message":"POST en /api/carts/65e604d6c6b49edd4e9aa5bf/product/65e72c69bebeb1cb09680396 - at 10/3/2024- 15:46:12"}
+{"level":"fatal","message":"POST en /api/carts/65e604d6c6b49edd4e9aa5bf/product/65e72c69bebeb1cb09680396 - at 10/3/2024- 15:46:12"}
+{"level":"error","message":"GET en /api/carts/65e604d6c6b49edd4e9aa5bf - at 10/3/2024- 15:48:08"}
+{"level":"fatal","message":"GET en /api/carts/65e604d6c6b49edd4e9aa5bf - at 10/3/2024- 15:48:08"}
+{"level":"error","message":"GET en / - at 10/3/2024- 15:48:12"}
+{"level":"fatal","message":"GET en / - at 10/3/2024- 15:48:12"}
+{"level":"error","message":"GET en /css/ - at 10/3/2024- 15:48:12"}
+{"level":"fatal","message":"GET en /css/ - at 10/3/2024- 15:48:12"}
+{"level":"error","message":"GET en /loggerTest - at 10/3/2024- 15:48:28"}
+{"level":"fatal","message":"GET en /loggerTest - at 10/3/2024- 15:48:28"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"error","message":"GET en /loggerTest - at 10/3/2024- 16:11:11"}
+{"level":"fatal","message":"GET en /loggerTest - at 10/3/2024- 16:11:11"}
+{"level":"fatal","message":"Prueba de logger nivel fatal en endpoint"}
+{"level":"error","message":"Prueba de logger nivel error en endpoint"}
+{"level":"error","message":"GET en / - at 10/3/2024- 16:11:15"}
+{"level":"fatal","message":"GET en / - at 10/3/2024- 16:11:15"}
+{"level":"error","message":"GET en /css/ - at 10/3/2024- 16:11:15"}
+{"level":"fatal","message":"GET en /css/ - at 10/3/2024- 16:11:15"}
+{"level":"error","message":"POST en /api/jwt/login - at 10/3/2024- 16:11:19"}
+{"level":"fatal","message":"POST en /api/jwt/login - at 10/3/2024- 16:11:19"}
+{"level":"error","message":"GET en /users/products - at 10/3/2024- 16:11:21"}
+{"level":"fatal","message":"GET en /users/products - at 10/3/2024- 16:11:21"}
+{"level":"error","message":"GET en /users/products - at 10/3/2024- 16:11:39"}
+{"level":"fatal","message":"GET en /users/products - at 10/3/2024- 16:11:39"}
+{"level":"error","message":"GET en /users - at 10/3/2024- 16:11:44"}
+{"level":"fatal","message":"GET en /users - at 10/3/2024- 16:11:44"}
+{"level":"error","message":"GET en /css/ - at 10/3/2024- 16:11:44"}
+{"level":"fatal","message":"GET en /css/ - at 10/3/2024- 16:11:44"}

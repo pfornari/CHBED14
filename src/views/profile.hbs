@@ -1,0 +1,18 @@
+<div>
+  <h3>Bienvenido {{user}}</h3>
+  <p><b>Rol:</b> {{role}}</p>
+<h4>Esta es la información de usuario:</h4>
+  <p>Edad: {{age}}</p>
+  <p>Email: {{email}}</p>
+  <p>Cart: {{cart}}</p>
+  
+
+{{!-- acá el :id tiene que ser dinámico --}}
+<a href="api/carts/{{cart}}"><button> Ver mi carrito </button></a>
+   {{!-- <button id="goToCart"> Ver mi carrito </button> --}}
+  <button  id="botonLogout" type="submit">LOGOUT</button>
+
+
+</div>
+
+<script src="/js/profile.js"></script>
